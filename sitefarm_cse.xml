@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomSearchEngine id="onckftafpla" creator="006621197560789347111" language="en" encoding="UTF-8" autocompletions="true">
+  <Title>SiteFarm</Title>
+  <Context>
+    <BackgroundLabels>
+      <Label name="_cse_onckftafpla" mode="FILTER"/>
+      <Label name="_cse_exclude_onckftafpla" mode="ELIMINATE"/>
+    </BackgroundLabels>
+  </Context>
+  <LookAndFeel element_layout="1" theme="7" custom_theme="true" text_font="Arial, sans-serif" url_length="domain" element_branding="hide" enable_cse_thumbnail="true" promotion_url_length="domain" font="2">
+    <Logo/>
+    <Colors url="#808080" background="#FFFFFF" border="#FFFFFF" title="#003570" text="#333333" visited="#001124" title_hover="#001124" title_active="#001124"/>
+    <Promotions title_color="#FFFFFF" title_visited_color="#FFFFFF" url_color="#FFFFFF" background_color="#FFFFFF" border_color="#FFFFFF" snippet_color="#FFFFFF" title_hover_color="#FFFFFF" title_active_color="#FFFFFF"/>
+    <SearchControls input_border_color="#FFFFFF" button_border_color="#FFFFFF" button_background_color="#FFFFFF" tab_border_color="#FFFFFF" tab_background_color="#FFFFFF" tab_selected_border_color="#FFFFFF" tab_selected_background_color="#FFFFFF" button_icon_color="#002855"/>
+    <Results border_color="#FFFFFF" border_hover_color="#FFFFFF" background_color="#FFFFFF" background_hover_color="#FFFFFF" ads_background_color="#fff7f5" ads_border_color="#FFFFFF"/>
+  </LookAndFeel>
+  <ImageSearchSettings enable="false" layout="0"/>
+  <autocomplete_settings/>
+  <sort_by_keys label="Relevance" key=""/>
+  <sort_by_keys label="Date" key="date"/>
+</CustomSearchEngine>
